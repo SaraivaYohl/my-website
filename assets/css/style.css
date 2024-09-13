@@ -1,0 +1,24 @@
+body{
+    background-color:black
+}
+header{
+    margin: 20px;
+    text-align:left;
+    text-decoration:underline;
+}
+nav{
+    background-color: #e3f2fd;
+}
+header *{
+    margin:15px;
+}
+img{
+    width: 20px;
+}
+img.icon{
+    display: none;
+}
+footer{
+    text-align: center;
+    background-color:rgb(13, 15, 42);
+}
